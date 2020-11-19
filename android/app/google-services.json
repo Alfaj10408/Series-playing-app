@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "289319817900",
+    "firebase_url": "https://friends-watch-72ae2.firebaseio.com",
+    "project_id": "friends-watch-72ae2",
+    "storage_bucket": "friends-watch-72ae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289319817900:android:6a2bd45eb0fe021ddd8509",
+        "android_client_info": {
+          "package_name": "cow.friends.watch.forever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289319817900-3p6se9ibr0ptd2g5hi6491pp6uvhk9dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ1DLVDrwiD7rMIK6HMP-D_JEWWXoTAYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289319817900-3p6se9ibr0ptd2g5hi6491pp6uvhk9dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
